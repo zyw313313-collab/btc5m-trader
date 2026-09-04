@@ -1,5 +1,7 @@
 # BTC 5m Trader
 
+[中文说明](README.zh-CN.md) | English
+
 Binance BTCUSDT 5-minute research, real-time monitoring, paper prediction
 market, and protected spot-trading project.
 
